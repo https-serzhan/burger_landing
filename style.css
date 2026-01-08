@@ -69,10 +69,10 @@ h6 {
 .header {
     padding: 25px 0;
 }
-
+/* 
 .header_logo {}
 
-.header_nav {}
+.header_nav {} */
 
 .header_list {
     display: flex;
@@ -100,8 +100,8 @@ h6 {
     justify-content: space-between;
     align-items: center;
 }
-
-.main {}
+/* 
+.main {} */
 
 .hero_section {
     background-image: url("./images/welcome-bg.jpg");
@@ -421,8 +421,8 @@ h6 {
     height: 12px;
 }
 
-
-.footer_nav {}
+/* 
+.footer_nav {} */
 
 .footer_list {
     display: flex;
